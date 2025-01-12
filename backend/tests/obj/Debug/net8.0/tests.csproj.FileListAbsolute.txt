@@ -1,0 +1,6 @@
+C:\Users\VascoC\Desktop\azure-resume\backend\tests\obj\Debug\net8.0\tests.csproj.AssemblyReference.cache
+C:\Users\VascoC\Desktop\azure-resume\backend\tests\obj\Debug\net8.0\tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VascoC\Desktop\azure-resume\backend\tests\obj\Debug\net8.0\tests.AssemblyInfoInputs.cache
+C:\Users\VascoC\Desktop\azure-resume\backend\tests\obj\Debug\net8.0\tests.AssemblyInfo.cs
+C:\Users\VascoC\Desktop\azure-resume\backend\tests\obj\Debug\net8.0\tests.csproj.CoreCompileInputs.cache
+C:\Users\VascoC\Desktop\azure-resume\backend\tests\obj\Debug\net8.0\tests.sourcelink.json
